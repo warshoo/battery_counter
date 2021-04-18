@@ -46,6 +46,5 @@ for (let t = 0; t < Summary_Voltage_Array.length; t++ ){//-------------------ц�
  
 }
 
-alert(' 60 мин:  ' + result_voltage_array[0] + '          120 мин:          ' + result_voltage_array[1] + '         180 мин:      ' + result_voltage_array[2] +' 240 мин:         ' + result_voltage_array[3]+ '          270 мин:        ' + result_voltage_array[4]+ '          300 мин:        ' + result_voltage_array[5]);
 
-
+for()
